@@ -6,7 +6,7 @@
 
 ## Install
 
-1.Open https://app.revolt.chat in your Browser
+1.Open https://app.revolt.chat in your Browser \r\n
 2.Klick on the Settings Button
 3.Klick on Apperiance
 ![Screenshot](./settings.png)
