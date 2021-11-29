@@ -8,7 +8,7 @@
 
 1.Open https://app.revolt.chat in your Browser  
 2.Klick on the Settings Button  
-3.Klick on Apperiance  
+3.Klick on Apperance  
 ![Screenshot](./settings.png)
 
 4.Klick on "Import a Theme"  
